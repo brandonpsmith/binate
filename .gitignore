@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules
+
+# VS Code debug
+.vscode
+
+# code coverage
+coverage
+
+# nyc output
+.nyc_output
